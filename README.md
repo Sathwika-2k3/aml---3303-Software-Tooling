@@ -1,5 +1,5 @@
 **Student Name:** Sathwika Gouravelli  
-**Course:** [Your Course Name]  
+**Course:** [2026W-AML-3303-OTT01-Software Tools and Emerging]  
 **Assignment:** Predicting Airbnb Listing Prices using MLflow and AWS S3  
 **Date:** 1 April 2026  
 
